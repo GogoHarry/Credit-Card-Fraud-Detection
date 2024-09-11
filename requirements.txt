@@ -1,0 +1,5 @@
+pip install XGBoost version: 2.1.1
+pip install scikit-learn version: 1.4.2
+pip install Pandas version: 2.2.2
+ pip installNumPy version: 1.26.4
+pip install Matplotlib version: 3.8.4
